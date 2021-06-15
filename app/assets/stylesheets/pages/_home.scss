@@ -30,6 +30,7 @@ img {
 
 ul {
   padding-inline-start: 0;
+  margin: 0;
 }
 
 li {
@@ -88,6 +89,9 @@ i {
   width: 100vw;
   background-color: #d8e3e7;
   bottom: 0%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
 .navbar {
