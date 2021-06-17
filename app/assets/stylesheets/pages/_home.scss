@@ -4,7 +4,7 @@
 
 body {
   background-color: #eeeeee;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Antic Slab', serif;
   color: #687980;
   line-height: 32px;
   margin: 0;
@@ -12,8 +12,8 @@ body {
 
 .header {
 h1, h2, p {
-  font-family: 'Comfortaa', cursive;
   color: #02475e;
+  font-family: 'Arvo', serif important !important;
   line-height: 40px;
 }
 }
@@ -110,7 +110,7 @@ i {
 
 .home-layout {
   display: flex;
-  background: rgba(32, 32, 32, 88%);
+  background: rgb(56, 56, 56);
 }
 
 .home-row {
